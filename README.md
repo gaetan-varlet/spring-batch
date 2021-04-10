@@ -24,7 +24,7 @@
 
 ![Architecture de Spring Batch](images/spring-batch-reference-model.png "Architecture de Spring Batch")
 
-## Exemple
+## Exemple
 
 - création d'un projet Spring Boot avec la dépendance **Spring Batch**
 - annotation de la classe de configuration **@EnableBatchProcessing** pour activer le traitement par lots
