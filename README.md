@@ -19,7 +19,7 @@
         - notamment les statistiques issues du monitoring sur le JobLauncher, le Job et le/les Step(s)
         - enregistrement dans une base de données, ou dans une Map
     - **JobExplorer** / **Job et Step Listeners** : permet d'effectuer des requêtes sur les données stockées à propos des jobs
-- possibilité de paralléliser le traitement via Spring Batch
+- possibilité de paralléliser les traitements
 
 
 ![Architecture de Spring Batch](images/spring-batch-reference-model.png "Architecture de Spring Batch")
